@@ -49,20 +49,6 @@ A pretrained network (ImageNet) where the final classification layer is replaced
 
 The high AUC indicates strong class separability, even though predicting the single best class among 100 remains challenging.
 
----
-
-## Visualizations
-
-### Confusion Matrix
-![Confusion Matrix](results/confusion_matrix.png)
-
-### ROC Curve
-![ROC](results/roc_curve.png)
-
-### t-SNE Feature Embedding
-![t-SNE](results/tsne.png)
-
----
 
 ## Key Findings
 
